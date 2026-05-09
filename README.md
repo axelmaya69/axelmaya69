@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 :computer: Ingeniero en sistemas computacionales 
-
-### Vías De Contacto:
-
-![Website](urlWebsite)
+Backend Developer
+-Java
+-Spring
+-SQL
