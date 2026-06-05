@@ -27,7 +27,7 @@
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate" />
+  <img src="https://skillicons.dev/icons?i=java,spring,maven" />
 </p>
 
 ### Bases de Datos
@@ -45,7 +45,7 @@
 ### Herramientas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=idea,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=idea,vscode,postman,docker" />
 </p>
 
 ### Sistemas Operativos
@@ -55,18 +55,7 @@
 </p>
 
 ---
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=axelmaya69&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelmaya69&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
+ 
 
 ## 🔥 Contribution Streak
 
@@ -125,27 +114,34 @@ public class Developer {
 - Profundizar en arquitectura de microservicios.
 - Aprender tecnologías Cloud.
 - Contribuir a proyectos Open Source.
-- Mejorar continuamente mis habilidades como ingeniero de software.
+- Mejorar continuamente mis habilidades como desarrollador.
 
 ---
 
 ## 📫 Contacto
 
-<p align="center">
-  <a href="https://github.com/axelmaya69">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
 
+<a href="mailto:axeldbmaya96@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/axel-daniel-bartolo-maya-961048213">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/axelmaya69">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 ---
 
 <div align="center">
 
-### ☕ "El código limpio siempre es más rápido de mantener que de escribir."
+### ☕ "Si puedes imaginarlo puedes programarlo..."
 
 ![Profile Views](https://komarev.com/ghpvc/?username=axelmaya69&style=for-the-badge)
 
 </div>
-### 💡 Frase favorita
 
-> "Si puedes imaginarlo puedes programarlo"
